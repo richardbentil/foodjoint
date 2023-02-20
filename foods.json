@@ -1,0 +1,45 @@
+{
+	"foods": [
+		{
+			"id": "td647",
+			"name": "Potatoe chips and chicken",
+			"restaurant": {
+				"name": "Green leaf eatery",
+				"openingtime": "10:00AM"
+			},
+			"price": 45,
+			"img": "/img/potatoe-chips-chicken.jpg"
+		},
+		{
+			"id": "gd578",
+			"name": "Beef fried rice",
+			"restaurant": {
+				"name": "Green leaf eatery",
+				"openingtime": "10:00AM"
+			},
+			"price": 30,
+			"img": "/img/beef-jollof.jpg"
+		},
+		{
+			"id": "kt45u",
+			"name": "Jollof rice and chicken",
+			"restaurant": {
+				"name": "Green leaf eatery",
+				"openingtime": "10:00AM"
+			},
+			"price": 20,
+			"img": "/img/jollof-rice-chicken.jpg"
+		},
+		{
+			"id": "kt45u",
+			"name": "Fried rice and chicken",
+			"restaurant": {
+				"name": "Green leaf eatery",
+				"openingtime": "10:00AM"
+			},
+			"price": 20,
+			"img": "/img/beef-jollof.jpg"
+		}
+
+	]
+}

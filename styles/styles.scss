@@ -1,0 +1,46 @@
+$primary: rgb(224, 156, 28);
+@import "bootstrap/scss/bootstrap";
+
+body {
+    background-color: rgb(243, 243, 243);
+    font-size: 14px;
+}
+
+footer.footer-bottom {
+    position: fixed !important;
+    bottom: 0 !important;
+}
+
+footer li a.active {
+    background-color: transparent !important;
+    border: none !important;
+    color: $primary !important;
+}
+
+.food-card {
+    .card-title {
+        font-size: 14px !important;
+    }
+    .card-text {
+        font-size: 14px !important;
+    }
+
+    .card-time {
+        font-size: 10px !important;
+    }
+
+    .card-img {
+        object-fit: cover !important;
+    }
+}
+
+.search-item {
+    .input-group-text {
+        border: 0 !important;
+    }
+    .form-control{
+    box-shadow: none;
+    border: 0;
+}
+}
+
