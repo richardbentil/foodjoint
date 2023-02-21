@@ -9,8 +9,8 @@ function Home() {
 	return (
 		<Layout>
 			<Header />
-			<div className="container">
-				<div className="col-lg-4 my-3">
+			<div className="container-fluid">
+				<div className="col-md-6 my-3 d-lg-none">
 					<Search />
 				</div>
 				<div className="my-4">
